@@ -33,7 +33,7 @@ The main goal is to build a model to predict the BigMart outlet sales based on d
 
 
 ## Deployment Link :
-https://bigmart-store-sales-prediction.herokuapp.com/    deployed to Heroku
+https://bigmart-sale-prediction.herokuapp.com/   deployed to Heroku
 
 
 ## Web Inerface :
